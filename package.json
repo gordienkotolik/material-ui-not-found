@@ -1,7 +1,7 @@
 {
   "name": "material-ui-not-found",
   "version": "0.1.0",
-  "description": "Resource Not found component for React integrated with material-ui package.",
+  "description": "'Resource Not Found' component for React integrated with material-ui package.",
   "main": "index.js",
   "types": "index.d.ts",
   "engines": {

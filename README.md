@@ -3,7 +3,7 @@ material-ui-not-found
 
 ## [Material-UI NotFound](https://github.com/gordienkotolik/material-ui-not-found)
 
-NotFound component for React integrated with material-ui package.
+'Resource Not Found' component for React integrated with material-ui package.
 
 
 ## Requirements
